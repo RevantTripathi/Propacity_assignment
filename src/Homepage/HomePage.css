@@ -1,0 +1,22 @@
+.home_page {
+
+    background: #03123D;  
+    width: 1260px;
+    height: 55vh;    
+    margin-left: 18vw;
+    margin-bottom: 7%; 
+    margin-right: 0vw;
+    /* margin-top: 1%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    margin: 2.6% 0% 1% 0%;
+}
+
+
+
+
+
+
